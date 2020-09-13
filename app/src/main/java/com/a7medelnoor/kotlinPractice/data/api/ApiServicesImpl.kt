@@ -1,7 +1,6 @@
-package com.a7medelnoor.kotlinPractice.api
+package com.a7medelnoor.kotlinPractice.data.api
 
 import com.a7medelnoor.kotlinPractice.model.User
-import com.rx2androidnetworking.Rx2ANRequest
 import com.rx2androidnetworking.Rx2AndroidNetworking
 import io.reactivex.Single
 

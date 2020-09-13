@@ -1,4 +1,4 @@
-package com.a7medelnoor.kotlinPractice.api
+package com.a7medelnoor.kotlinPractice.data.api
 
 import com.a7medelnoor.kotlinPractice.model.User
 import io.reactivex.Single
