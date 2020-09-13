@@ -9,7 +9,7 @@ import io.reactivex.Single
 *  Email: ahdnoor4@gmail.com
 *  Github: github.com/a7medelnoor
 */
-
+// API class for calling API Server
 interface ApiServices {
     // return a single element of user in a list using Rxjava
     fun getUsers(): Single<List<User>>
